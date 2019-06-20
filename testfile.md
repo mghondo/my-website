@@ -2,6 +2,8 @@
 
 <<<<<<< HEAD
 adsfadsfasdfasdfsda
+
+asdfasdfsadfasfdsaasdfasfsa
 =======
 some othere things for this file. 
 spoiler alert. 
