@@ -7,11 +7,11 @@ archer butt face
 
 now editing on the update-readme branch
 
-Changes after making the example branch
+### Changes after making the example branch
 
 Archer danger islando on remote. 
 =======
-some more stuff going on right here. 
+##### some more stuff going on right here. 
 
 =======
 
