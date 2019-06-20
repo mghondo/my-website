@@ -5,6 +5,8 @@ asdfasdfasdfasdfdasfadsf
 
 archer butt face
 
+now editing on the update-readme branch
+
 Changes after making the example branch
 =======
 some more stuff going on right here. 
