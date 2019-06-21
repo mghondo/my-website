@@ -17,7 +17,7 @@ Archer danger islando on remote.
 
 ##What it is right now
 
-Some more fun stuff happening while noah is balbbing about anthropology
+Some more fun stuff happening while noah is balbbing about anthropology ssssssss
 
 ## What it is right now
 
